@@ -1,0 +1,4 @@
+/home/bviolet/word2vec/cmkdep/pg_extension/CMakeFiles/test_verbose.dir
+/home/bviolet/word2vec/cmkdep/pg_extension/CMakeFiles/testsearch.dir
+/home/bviolet/word2vec/cmkdep/pg_extension/CMakeFiles/edit_cache.dir
+/home/bviolet/word2vec/cmkdep/pg_extension/CMakeFiles/rebuild_cache.dir

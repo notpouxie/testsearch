@@ -1,4 +1,0 @@
-comment = 'We do sentence transformer model inference here'
-default_version = '0.0.1'
-relocatable = true
-module_pathname = '$libdir/testsearch'
